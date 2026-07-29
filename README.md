@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Database
 |  |
@@ -69,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
