@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0075-sort-colors) |
 ## Tree
 |  |
 | ------- |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0101-symmetric-tree) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
