@@ -3,8 +3,8 @@ public:
 
    int sumByDivisor(vector<int> &nums,int div){
     int sum = 0;
-    int n = nums.size() ;
-    for(int i = 0;i<n;i++){
+    int n = nums.size()-1 ;
+    for(int i = 0;i<=n;i++){
         sum += ceil((double)(nums[i])/(double)(div));
     }
     return sum;
