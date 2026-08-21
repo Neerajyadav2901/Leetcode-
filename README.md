@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0605-can-place-flowers) |
 | [0875-koko-eating-bananas](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
