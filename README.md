@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0678-valid-parenthesis-string) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quicksort
