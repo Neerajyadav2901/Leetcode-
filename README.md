@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
