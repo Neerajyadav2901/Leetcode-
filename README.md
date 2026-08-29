@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0229-majority-element-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0495-teemo-attacking) |
 | [0523-continuous-subarray-sum](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0523-continuous-subarray-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0875-koko-eating-bananas) |
