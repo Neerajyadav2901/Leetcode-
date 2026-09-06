@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0523-continuous-subarray-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0678-valid-parenthesis-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Divide and Conquer
 |  |
