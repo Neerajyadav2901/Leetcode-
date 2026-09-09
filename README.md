@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
