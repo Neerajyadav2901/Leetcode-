@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2404-most-frequent-even-element](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2404-most-frequent-even-element](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2404-most-frequent-even-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
+| [2404-most-frequent-even-element](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
