@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -225,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
