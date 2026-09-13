@@ -254,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
