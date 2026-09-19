@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
