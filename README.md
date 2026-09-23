@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2404-most-frequent-even-element](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2404-most-frequent-even-element) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Counting
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -300,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0142-linked-list-cycle-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
