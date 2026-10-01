@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -329,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
