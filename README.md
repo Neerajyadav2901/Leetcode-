@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0020-valid-parentheses) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -337,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0231-power-of-two) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
