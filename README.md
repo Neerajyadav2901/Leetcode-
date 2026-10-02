@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0493-reverse-pairs) |
 ## Two Pointers
@@ -334,5 +335,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
