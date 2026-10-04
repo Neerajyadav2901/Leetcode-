@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0229-majority-element-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0495-teemo-attacking) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Manacher
 |  |
