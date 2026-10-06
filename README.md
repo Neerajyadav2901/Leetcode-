@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0260-single-number-iii) |
@@ -367,4 +369,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
