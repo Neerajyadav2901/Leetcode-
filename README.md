@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0856-score-of-parentheses) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0101-symmetric-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
@@ -370,4 +372,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
