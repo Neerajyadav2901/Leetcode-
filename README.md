@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
