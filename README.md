@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -385,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0301-remove-invalid-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
