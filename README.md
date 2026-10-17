@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
