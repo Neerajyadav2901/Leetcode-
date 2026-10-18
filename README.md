@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Tournament Sort
