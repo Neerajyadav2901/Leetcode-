@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0495-teemo-attacking) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3477-fruits-into-baskets-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3477-fruits-into-baskets-ii) |
 ## Database
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3477-fruits-into-baskets-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0493-reverse-pairs) |
+| [3477-fruits-into-baskets-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3477-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0493-reverse-pairs) |
+| [3477-fruits-into-baskets-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3477-fruits-into-baskets-ii) |
 ## Treap
 |  |
 | ------- |
