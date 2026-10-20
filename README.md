@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0301-remove-invalid-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0856-score-of-parentheses) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
