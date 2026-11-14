@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3477-fruits-into-baskets-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Neerajyadav2901/Leetcode-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Tournament Sort
 |  |
 | ------- |
