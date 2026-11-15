@@ -21,7 +21,7 @@ public:
 class Solution {
 public:
 void solve(Node* root, vector<int> &ans){
-    if(root == NULL){
+    if(!root){
         return;
     }
     ans.push_back(root->val);
