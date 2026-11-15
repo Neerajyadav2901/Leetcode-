@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0032-longest-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0503-next-greater-element-ii) |
@@ -301,11 +302,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bubble Sort
 |  |
 | ------- |
