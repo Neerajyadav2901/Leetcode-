@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Neerajyadav2901/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Stack
 |  |
 | ------- |
