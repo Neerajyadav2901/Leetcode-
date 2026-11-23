@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Neerajyadav2901/Leetcode-/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Neerajyadav2901/Leetcode-/tree/master/2220-minimum-bit-flips-to-convert-number) |
